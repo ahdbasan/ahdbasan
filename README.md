@@ -55,7 +55,7 @@ As we integrate AI, programming, and innovative tools into workflows, I believe:
 
 ----
 
-## 💻Softwares and Tools
+## 💻Version Control and Tools
 
 <p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code" width="32" height="32"/> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" width="32" height="32"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="32" height="32"/> </p>
 
