@@ -60,7 +60,7 @@ As we integrate AI, programming, and innovative tools into workflows, I believe:
 - 🛠️ Programming education should focus on **understanding and problem-solving**,
 - not just writing code.  
 
-----
+---
 
 ## ☕ Let's Connect  
 
@@ -70,3 +70,5 @@ As we integrate AI, programming, and innovative tools into workflows, I believe:
 
 ![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXlhbnB4enl6bnhqcmM1YTEwbnViNTBrZ3NqOGgzeXphdmkwc2M1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.webp)
 ---
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
