@@ -24,8 +24,6 @@ _Curious for the answers of this question? Send me an [email](mailto:ahdbasan2@g
 
 _**Looking forward to Global Net Zero** 🌍🔋_
 
----
-
  <details>
 <summary><em>Click to learn more about me</em></summary>
 
