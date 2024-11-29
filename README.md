@@ -66,6 +66,7 @@ As we integrate AI, programming, and innovative tools into workflows, I believe:
 - 💼 **LinkedIn:** [linkedin.com/in/ahdb](https://www.linkedin.com/in/ahdb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXpUJrAfPSTiVOafJSSR%2F2w%3D%3D)  
 - 📧 **Email:** [ahdbasan2@gmail.com](mailto:ahdbasan2@gmail.com.com)  
 - 🌐 **Portfolio:** [coming soon](#)
+
 ![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmF6enV4MHV5bjdrZDdybzRod2twcHEwNmk5ZHd4aG1odzNxdjAxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cXblnKXr2BQOaYnTni/giphy.webp)
 
 ---
