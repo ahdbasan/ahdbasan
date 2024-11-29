@@ -32,8 +32,7 @@ For me, _creativity transcends mere sketches_—it’s about the narratives we c
  Whether I’m designing an arcade,conceptualizing a luxurious 5-star hotel, or
  addressing the digital divide, my philosophy remains consistent:  
  **People first. Process second. Pixels later.**
-> We shape our buildings; thereafter, they shape us.
->
+> We shape our buildings; thereafter, they shape us.  
 > — Winston Churchill
 
 ---
