@@ -62,6 +62,13 @@ As we integrate AI, programming, and innovative tools into workflows, I believe:
 
 ---
 
+### Software Skills
+
+![ArchiCAD](https://upload.wikimedia.org/wikipedia/commons/1/14/ArchiCAD_logo.png)  
+![AutoCAD](https://upload.wikimedia.org/wikipedia/commons/d/d5/AutoCAD_logo.png)  
+![Revit](https://upload.wikimedia.org/wikipedia/commons/e/e5/Autodesk_Revit_Logo.png)
+---
+
 ## ☕ Let's Connect  
 
 - 💼 **LinkedIn:** [linkedin.com/in/ahdb](https://www.linkedin.com/in/ahdb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXpUJrAfPSTiVOafJSSR%2F2w%3D%3D)  
