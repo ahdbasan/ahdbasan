@@ -39,8 +39,8 @@ For me, _creativity transcends mere sketches_—it’s about the narratives we c
 
 ### 🔍Design the Future  
 
-Technology is reshaping everything—yes, even the blueprints! As we integrate AI,
-programming, and innovative tools into workflows, I believe:  
+Technology is reshaping everything—yes, even the blueprints!  
+As we integrate AI, programming, and innovative tools into workflows, I believe:  
 
 - 📚 Learning must be **accessible, interactive, and comprehension-first**
   especially in the _underserved communities._
