@@ -16,10 +16,9 @@ I’m an Architect fascinated by how the worlds of **sustainable technologies an
 technologies redefine architectural design paradigms, enabling us to achieve
 both environmental and functional optimization in the face of rapidly evolving
 urban challenges?"**  
-_Curious for the answers of this question? Send me an email!_
-[here](mailto:ahdbasan2@gmail.com)
+_Curious for the answers of this question? Send me an [email](mailto:ahdbasan2@gmail.com)!_
 
-_Looking forward to Global Net Zero._
+<span style="color: green;">**Looking forward to Global Net Zero.**</span>
 
 ---
 
@@ -44,5 +43,13 @@ programming, and innovative tools into workflows, I believe:
   especially in the _underserved communities._
 - 🛠️ Programming education should focus on **understanding and problem-solving**,
 - not just writing code.  
+
+---
+
+## ☕ Let's Connect  
+
+- 💼 **LinkedIn:** [linkedin.com/in/ahd-basan](https://linkedin.com/in/ahd-basan)  
+- 📧 **Email:** [ahdbasan2@gmail.com](mailto:ahdbasan2@gmail.com.com)  
+- 🌐 **Portfolio:** [coming soon](#)
 
 ---
