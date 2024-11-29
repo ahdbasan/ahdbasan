@@ -2,7 +2,9 @@
 
 📧 [ahdbasan2@gmail.com](mailto:ahdbasan2@gmail.com)  
 🏛️ Aspiring to be a Software Architect  
+
 #### _Currently in Foundations Track_
+
 ---
 
 ## Who am I?
@@ -30,6 +32,7 @@ For me, _creativity transcends mere sketches_—it’s about the narratives we c
 
 **People first. Process second. Pixels later.**
 > We shape our buildings; thereafter, they shape us.
+>
 > — Winston Churchill
 
 ---
