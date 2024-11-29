@@ -39,8 +39,6 @@ As Winston Churchil once said:
     We shape our buildings; thereafter they shape us.
 ```
 
----
-
 ### 🔍Design the Future  
 
 Technology is reshaping everything—yes, even the blueprints!  
