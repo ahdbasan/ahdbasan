@@ -18,7 +18,7 @@ both environmental and functional optimization in the face of rapidly evolving
 urban challenges?"**  
 _Curious for the answers of this question? Send me an [email](mailto:ahdbasan2@gmail.com)!_
 
-<span style="color: green;">**Looking forward to Global Net Zero.**</span>
+**Looking forward to Global Net Zero** 🌍🔋
 
 ---
 
