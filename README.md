@@ -15,7 +15,7 @@ I’m an Architect fascinated by how the worlds of **sustainable technologies an
 **"How can the integration of AI-driven solutions with sustainable building
 technologies redefine architectural design paradigms, enabling us to achieve
 both environmental and functional optimization in the face of rapidly evolving
-urban challenges?"**
+urban challenges?"**  
 _Curious for the answers of this question? Send me an email!_
 [here](mailto:ahdbasan2@gmail.com)
 
