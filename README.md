@@ -41,8 +41,7 @@ programming, and innovative tools into workflows, I believe:
 
 - 📚 Learning must be **accessible, interactive, and comprehension-first**
   especially in the _underserved communities._
-- 🛠️ Programming education should focus on **understanding and problem-solving**,
-- not just writing code.  
+- 🛠️ Programming education should focus on **understanding and problem-solving**, not just writing code.  
 
 ---
 
