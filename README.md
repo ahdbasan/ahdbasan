@@ -8,8 +8,8 @@
 ## Who am I?
 
 I’m an Architect fascinated by how the worlds of **sustainable technologies and
- data science** can come together to reshape the ever-changing future. Whether
-  it’s through [architecture](https://www.archdaily.com/948970/clayton-miller-on-data-science-in-architecture-academic-and-industry-are-just-starting) or programming or [AI driven solutions](https://www.smithgroup.com/perspectives/2024/beyond-imagery-the-application-of-ai-to-architectural-design);
+ data science** can come together to reshape the ever-changing future.
+ Whether it’s through [architecture](https://www.archdaily.com/948970/clayton-miller-on-data-science-in-architecture-academic-and-industry-are-just-starting) or programming or [AI driven solutions](https://www.smithgroup.com/perspectives/2024/beyond-imagery-the-application-of-ai-to-architectural-design);
   my goal is simple: **make things better.**
 
 **"How can the integration of AI-driven solutions with sustainable building
@@ -28,9 +28,10 @@ _Looking forward to Global Net Zero._
 For me, _creativity transcends mere sketches_—it’s about the narratives we craft.
  Whether I’m designing an arcade,conceptualizing a luxurious 5-star hotel, or
  addressing the digital divide, my philosophy remains consistent:
+
 **People first. Process second. Pixels later.**
 > We shape our buildings; thereafter, they shape us.
-— Winston Churchill
+> — Winston Churchill
 
 ---
 
