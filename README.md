@@ -22,7 +22,7 @@ both environmental and functional optimization in the face of rapidly evolving
 urban challenges?"**  
 _Curious for the answers of this question? Send me an [email](mailto:ahdbasan2@gmail.com)!_
 
-**Looking forward to Global Net Zero** 🌍🔋
+_**Looking forward to Global Net Zero** 🌍🔋_
 
 ---
 
@@ -40,7 +40,7 @@ For me, _creativity transcends mere sketches_—it’s about the narratives we c
 ### 🔍Design the Future  
 
 Technology is reshaping everything—yes, even the blueprints!  
-As we integrate AI, programming, and innovative tools into workflows, I believe:  
+As we integrate AI, programming, and innovative tools into workflows, I believe:
 
 - 📚 Learning must be **accessible, interactive, and comprehension-first**
   especially in the _underserved communities._
