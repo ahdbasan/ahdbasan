@@ -60,14 +60,7 @@ As we integrate AI, programming, and innovative tools into workflows, I believe:
 - 🛠️ Programming education should focus on **understanding and problem-solving**,
 - not just writing code.  
 
----
-
-### Software Skills
-
-![ArchiCAD](https://upload.wikimedia.org/wikipedia/commons/1/14/ArchiCAD_logo.png)  
-![AutoCAD](https://upload.wikimedia.org/wikipedia/commons/d/d5/AutoCAD_logo.png)  
-![Revit](https://upload.wikimedia.org/wikipedia/commons/e/e5/Autodesk_Revit_Logo.png)
----
+----
 
 ## ☕ Let's Connect  
 
