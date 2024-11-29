@@ -2,6 +2,8 @@
 
 # Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Ahd Abdel-Rahim Basan
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
 > [ahdbasan2@gmail.com](mailto:ahdbasan2@gmail.com)  
 > Aspiring to be a Software Architect  
 
