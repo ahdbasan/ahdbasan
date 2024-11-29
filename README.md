@@ -7,7 +7,7 @@
 > [ahdbasan2@gmail.com](mailto:ahdbasan2@gmail.com)  
 > Aspiring to be a Software Architect  
 
-#### _Currently in the Foundations Track_
+ _Currently in the Foundations Track_
 
 ---
 
@@ -46,7 +46,8 @@ As we integrate AI, programming, and innovative tools into workflows, I believe:
 
 - 📚 Learning must be **accessible, interactive, and comprehension-first**
   especially in the _underserved communities._
-- 🛠️ Programming education should focus on **understanding and problem-solving**, not just writing code.  
+- 🛠️ Programming education should focus on **understanding and problem-solving**,
+- not just writing code.  
 
 ---
 
