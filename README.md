@@ -48,8 +48,6 @@ As we integrate AI, programming, and innovative tools into workflows, I believe:
 - 🛠️ Programming education should focus on **understanding and problem-solving**,
 - not just writing code.  
 
----
-
 </details>
 
 ----
