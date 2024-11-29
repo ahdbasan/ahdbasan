@@ -1,4 +1,4 @@
-# Hi, I'm Ahd Omer Basan
+# Hi, I'm Ahd Omer Abdel-Rahim Basan
 
 📧 [ahdbasan2@gmail.com](mailto:ahdbasan2@gmail.com)  
 🏛️ Aspiring to be a Software Architect  
@@ -50,7 +50,7 @@ As we integrate AI, programming, and innovative tools into workflows, I believe:
 
 ## ☕ Let's Connect  
 
-- 💼 **LinkedIn:** [linkedin.com/in/ahd-basan](https://linkedin.com/in/ahd-basan)  
+- 💼 **LinkedIn:** [linkedin.com/in/ahdb](https://www.linkedin.com/in/ahdb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXpUJrAfPSTiVOafJSSR%2F2w%3D%3D)  
 - 📧 **Email:** [ahdbasan2@gmail.com](mailto:ahdbasan2@gmail.com.com)  
 - 🌐 **Portfolio:** [coming soon](#)
 
