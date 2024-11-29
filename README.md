@@ -28,6 +28,7 @@ _**Looking forward to Global Net Zero** 🌍🔋_
 
  <details>
 <summary><em>Click to learn more about me</em></summary>
+
 ### 🎨 Building Narratives
 
 For me, _creativity transcends mere sketches_—it’s about the narratives we craft.
