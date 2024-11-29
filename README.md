@@ -2,8 +2,8 @@
 
 # Hi, I'm Ahd Omer Abdel-Rahim Basan
 
-📧 [ahdbasan2@gmail.com](mailto:ahdbasan2@gmail.com)  
-🏛️ Aspiring to be a Software Architect  
+>📧 [ahdbasan2@gmail.com](mailto:ahdbasan2@gmail.com)  
+>🏛️ Aspiring to be a Software Architect  
 
 #### _Currently in the Foundations Track_
 
