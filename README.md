@@ -1,6 +1,6 @@
 ![architecture_gif](https://bit.ly/3VPax3Y)
 
-# Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Ahd Abdel-Rahim Basan
+# Hey <img src="https://tinyurl.com/frenu2hj" width="35px"> I'm Ahd Abdel-Rahim Basan
 <!-- The following image is intentionally inline HTML . -->
 
 > [ahdbasan2@gmail.com](mailto:ahdbasan2@gmail.com)  
