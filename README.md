@@ -1,7 +1,7 @@
 ![architecture_gif](https://bit.ly/3VPax3Y)
 
 # Hey <img src="https://tinyurl.com/frenu2hj" width="35px"> I'm Ahd Abdel-Rahim Basan
-<!-- The following image is intentionally inline HTML . -->
+<!-- The following Image link is intentionally Inline-Html -->
 
 > [ahdbasan2@gmail.com](mailto:ahdbasan2@gmail.com)  
 > Aspiring to be a Software Architect  
@@ -28,7 +28,7 @@ _**Looking forward to Global Net Zero** 🌍🔋_
 
 <details>
 <summary><em>Click to learn more about me</em></summary>
-<!-- The following is intentionally inline html for collapsible content -->
+<!-- This also is intentionally inline-html for collapsible content -->
 
 ### 🎨 Building Narratives
 
@@ -76,7 +76,7 @@ As we integrate AI, programming, and innovative tools into workflows, I believe:
        width="32"
        height="32"/>
 </p>
-<!-- The following images is intentionally HTML to align images in the center . -->
+<!-- The following image is intentionally inline - html to align them in the center . -->
 
 ----
 
