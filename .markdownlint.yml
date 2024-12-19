@@ -10,7 +10,7 @@ MD007: # Unordered list indentation
 
 # Line length and whitespace
 MD013: # Line length
-  line_length: 80
+  line_length: 120
   strict: false
   stern: false
 
