@@ -1,6 +1,7 @@
 ![architecture_gif](https://bit.ly/3VPax3Y)
 
-# Hey there <img src="https://tinyurl.com/frenu2hj" width="35px"> It's Ahd 
+# ![image](https://github.com/user-attachments/assets/17c382d8-22ad-48df-85cd-0abc8e0aa57d)
+
 <!-- The following Image link is intentionally Inline-Html -->
 
 > [ahdbasan2@gmail.com](mailto:ahdbasan2@gmail.com)  
@@ -82,7 +83,7 @@ As we integrate AI, programming, and innovative tools into workflows, I believe:
 
 ----
 
-## ☕ Now, I’m not just building structures; I’m building logic too! Let's Connect  
+## ☕ Now, I’m not just building structures; I’m building logic too!
 
 - 💼 **LinkedIn:** [linkedin.com/in/ahdb](https://www.linkedin.com/in/ahdb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXpUJrAfPSTiVOafJSSR%2F2w%3D%3D)
 - 📧 **Email:** [ahdbasan2@gmail.com](mailto:ahdbasan2@gmail.com.com)  
@@ -91,3 +92,5 @@ As we integrate AI, programming, and innovative tools into workflows, I believe:
 
 
 ---
+
+
