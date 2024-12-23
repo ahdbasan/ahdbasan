@@ -88,6 +88,7 @@ As Winston Churchil once said:
 ### Now, I’m not just building structures; I’m building logic too!
 
 ![https://github.com/user-attachments/assets/3f499bd9-06ee-4b4e-9773-8ca1fb97fc34)](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHoxcm5rMWRtdTdyN3RsbDdpbGFjYW1hYXB5MHYycDlydXk2djAxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LyEzc55maIvssTrfW6/giphy.webp)
+![vidgiphy](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGc0dzVoOG52bzEzZXJ2bnhnOXIyZXBkNWxjZmJiMDk2bTF4NzFldiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKA63NRZZQ52Nvjzvs/giphy.webp)
 
 
 
