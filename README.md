@@ -1,6 +1,6 @@
 ![architecture_gif](https://bit.ly/3VPax3Y)
 
-# ![image](https://github.com/user-attachments/assets/17c382d8-22ad-48df-85cd-0abc8e0aa57d)
+# ![image](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWV2OXVmaGxqdnM2YzBpYTJtZ2pvcjc2eWI4OWswYmlnZG5kMHoxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ulZ7gQQz9jwZzv224n/giphy.webp)
 
 <!-- The following Image link is intentionally Inline-Html -->
 
