@@ -9,8 +9,10 @@
 _Currently in the Foundations Track_    ---
 
 ## Who am I?
-
-I’m an Architect fascinated by how the worlds of **sustainable technologies and
+As an architect, I always thought my blueprints would stay on paper, not in code.
+But here I am, diving into the world of programming, and let me tell you  I’m 
+fascinated, inspired, and challenging myself in ways I never imagined.  
+Also, fascinated by how the worlds of **sustainable technologies and
 data science** can come together to reshape the ever-changing future.
 Whether it’s through [architecture][a] or programming or [AI driven solutions][a2];
  my goal is simple: **make things better.**
@@ -80,7 +82,7 @@ As we integrate AI, programming, and innovative tools into workflows, I believe:
 
 ----
 
-## ☕ Let's Connect  
+## ☕ Now, I’m not just building structures; I’m building logic too! Let's Connect  
 
 - 💼 **LinkedIn:** [linkedin.com/in/ahdb](https://www.linkedin.com/in/ahdb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXpUJrAfPSTiVOafJSSR%2F2w%3D%3D)
 - 📧 **Email:** [ahdbasan2@gmail.com](mailto:ahdbasan2@gmail.com.com)  
