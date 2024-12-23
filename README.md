@@ -24,17 +24,17 @@ Whether it’s through [architecture][a] or programming or [AI driven solutions]
 [a]: https://tinyurl.com/369yu4y8
 [a2]: https://tinyurl.com/3v5bapzc
 
-**"How can the integration of AI-driven solutions with sustainable building
+<details>
+<summary><em>Click to learn more about me</em></summary>
+<!-- This also is intentionally inline-html for collapsible content -->    
+ 
+> **"How can the integration of AI-driven solutions with sustainable building
 technologies redefine architectural design paradigms, enabling us to achieve
 both environmental and functional optimization in the face of rapidly evolving
 urban challenges?"**  
 _Curious for the answers of this question? Send me an [email](mailto:ahdbasan2@gmail.com)!_
-
-_**Looking forward to Global Net Zero** 🌍🔋_
-
-<details>
-<summary><em>Click to learn more about me</em></summary>
-<!-- This also is intentionally inline-html for collapsible content -->
+>
+> _**Looking forward to Global Net Zero** 🌍🔋_
 
 ### 🎨 Building Narratives
 
@@ -78,7 +78,7 @@ As Winston Churchil once said:
 
 ## ☕ Now, I’m not just building structures; I’m building logic too!
 
-- 💼 **LinkedIn:** [linkedin.com/in/ahdb](https://www.linkedin.com/in/ahdb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXpUJrAfPSTiVOafJSSR%2F2w%3D%3D)
+- 💼 **LinkedIn:** [linkedin.com/in/ahdb]([https://www.linkedin.com/in/ahdb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXpUJrAfPSTiVOafJSSR%2F2w%3D%3D](https://www.linkedin.com/in/ahd-bassan))
 - 📧 **Email:** [ahdbasan2@gmail.com](mailto:ahdbasan2@gmail.com.com)  
 - 🌐 **Portfolio:** [coming soon](https://www.linkedin.com/in/ahdb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXpUJrAfPSTiVOafJSSR%2F2w%3D%3D)
 
