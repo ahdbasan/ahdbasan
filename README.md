@@ -53,9 +53,9 @@ As Winston Churchil once said:
 
 ---
 
-## 💻Version Control and Tools
+##  Version Control and Tools
 
-<p align="center">
+<p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"
        alt="Visual Studio Code"
        width="32"
@@ -73,16 +73,14 @@ As Winston Churchil once said:
        width="32"
        height="32"/>
 </p>
+
 <!-- The following image is intentionally inline - html to align them in the center . -->
 
 ----
 
-## ☕ Lets linkup
+##  Current Projects 
 
-<a href="https://www.linkedin.com/in/ahd-bassan/">
-  <img align="left" alt="Ahd's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>   
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MIT-Emerging-Talent&repo=ET6-foundations-group-28)](https://github.com/MIT-Emerging-Talent/ET6-foundations-group-28)
 
 
 ----
