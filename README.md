@@ -51,8 +51,13 @@ As Winston Churchil once said:
 
 </details>
 
----
+----
 
+##  Current Projects 
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MIT-Emerging-Talent&repo=ET6-foundations-group-28)](https://github.com/MIT-Emerging-Talent/ET6-foundations-group-28)
+
+----
 ##  Version Control and Tools
 
 <p align="left">
@@ -75,12 +80,6 @@ As Winston Churchil once said:
 </p>
 
 <!-- The following image is intentionally inline - html to align them in the center . -->
-
-----
-
-##  Current Projects 
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MIT-Emerging-Talent&repo=ET6-foundations-group-28)](https://github.com/MIT-Emerging-Talent/ET6-foundations-group-28)
 
 
 ----
