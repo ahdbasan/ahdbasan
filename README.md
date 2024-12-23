@@ -57,7 +57,7 @@ As Winston Churchil once said:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MIT-Emerging-Talent&repo=ET6-foundations-group-28)](https://github.com/MIT-Emerging-Talent/ET6-foundations-group-28)
 
-----
+
 ##  Version Control and Tools
 
 <p align="left">
