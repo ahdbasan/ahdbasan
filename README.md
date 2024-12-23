@@ -79,7 +79,7 @@ As Winston Churchil once said:
 
 ## ☕ Now, I’m not just building structures; I’m building logic too!
 
-- 💼 **LinkedIn:** [linkedin.com/in/ahdb]([https://www.linkedin.com/in/ahdb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXpUJrAfPSTiVOafJSSR%2F2w%3D%3D](https://www.linkedin.com/in/ahd-bassan))
+- 💼 **LinkedIn:** [linkedin.com/in/ahd-bassan](https://www.linkedin.com/in/ahdb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXpUJrAfPSTiVOafJSSR%2F2w%3D%3D)
 - 📧 **Email:** [ahdbasan2@gmail.com](mailto:ahdbasan2@gmail.com.com)  
 - 🌐 **Portfolio:** [coming soon](https://www.linkedin.com/in/ahdb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXpUJrAfPSTiVOafJSSR%2F2w%3D%3D)
 
