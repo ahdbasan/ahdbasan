@@ -24,9 +24,6 @@ Whether it’s through [architecture][a] or programming or [AI driven solutions]
 [a]: https://tinyurl.com/369yu4y8
 [a2]: https://tinyurl.com/3v5bapzc
 
-<details>
-<summary><em>Click to learn more about me</em></summary>
-<!-- This also is intentionally inline-html for collapsible content -->    
  
 > **"How can the integration of AI-driven solutions with sustainable building
 technologies redefine architectural design paradigms, enabling us to achieve
@@ -35,6 +32,10 @@ urban challenges?"**
 _Curious for the answers of this question? Send me an [email](mailto:ahdbasan2@gmail.com)!_
 >
 > _**Looking forward to Global Net Zero** 🌍🔋_
+
+<details>
+<summary><em>Click to learn more about me</em></summary>
+<!-- This also is intentionally inline-html for collapsible content -->    
 
 ### 🎨 Building Narratives
 
