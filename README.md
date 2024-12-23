@@ -1,7 +1,6 @@
 ![architecture_gif](https://bit.ly/3VPax3Y)
 
 # ![image](https://github.com/user-attachments/assets/17c382d8-22ad-48df-85cd-0abc8e0aa57d)
-# ITS AHD ABDELRAHIM BASSAN
 
 <!-- The following Image link is intentionally Inline-Html -->
 
@@ -11,9 +10,12 @@
 _Currently in the Foundations Track_    ---
 
 ## Who am I?
-As an architect, I always thought my blueprints would stay on paper, not in code.
-But here I am, diving into the world of programming, and let me tell you  I’m 
-fascinated, inspired, and challenging myself in ways I never imagined.  
+**Ahd Abdelrahim Basan.**  
+As an Architect, I always thought my blueprints 
+would stay on paper, not in code. But here I am, diving into the world of programming, 
+and let me tell you  I’m fascinated, inspired, and challenging myself
+in ways I never imagined.  
+
 Also, fascinated by how the worlds of **sustainable technologies and
 data science** can come together to reshape the ever-changing future.
 Whether it’s through [architecture][a] or programming or [AI driven solutions][a2];
@@ -45,16 +47,6 @@ For me, _creativity transcends mere sketches_—it’s about the narratives we c
 As Winston Churchil once said:
     We shape our buildings; thereafter they shape us.
 ```
-
-### 🔍Design the Future  
-
-Technology is reshaping everything—yes, even the blueprints!  
-As we integrate AI, programming, and innovative tools into workflows, I believe:
-
-- 📚 Learning must be **accessible, interactive, and comprehension-first**
-  especially in the _underserved communities._
-- 🛠️ Programming education should focus on **understanding and problem-**
-  **solving**, not just writing code.
 
 </details>
 
