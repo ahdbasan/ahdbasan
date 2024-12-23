@@ -77,14 +77,21 @@ As Winston Churchil once said:
 
 ----
 
-## ☕ Now, I’m not just building structures; I’m building logic too!
+## ☕ Lets linkup
 
 - 💼 **LinkedIn:** [linkedin.com/in/ahd-bassan](https://www.linkedin.com/in/ahd-bassan/)
 - 📧 **Email:** [ahdbasan2@gmail.com](mailto:ahdbasan2@gmail.com.com)  
 - 🌐 **Portfolio:** [coming soon](https://www.linkedin.com/in/ahdb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXpUJrAfPSTiVOafJSSR%2F2w%3D%3D)
 
+----
+
+### Now, I’m not just building structures; I’m building logic too!
+
+![https://github.com/user-attachments/assets/3f499bd9-06ee-4b4e-9773-8ca1fb97fc34)](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHoxcm5rMWRtdTdyN3RsbDdpbGFjYW1hYXB5MHYycDlydXk2djAxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LyEzc55maIvssTrfW6/giphy.webp)
 
 
----
+
+
+
 
 
