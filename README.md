@@ -7,7 +7,7 @@
 > [ahdbasan2@gmail.com](mailto:ahdbasan2@gmail.com)  
 > Aspiring to be a Software Architect  
 
-_Currently in the Foundations Track_    ---
+_Currently in the Foundations Track MIT Emerging Talent_    ---
 
 ## Who am I?
 **Ahd Abdelrahim Basan.**  
