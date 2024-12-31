@@ -11,27 +11,25 @@ _Currently in the Foundations Track_    ---
 
 ## Who am I?
 **Ahd Abdelrahim Basan.**  
-As an Architect, I always thought my blueprints 
-would stay on paper, not in code. But here I am, diving into the world of programming, 
-and let me tell you  I’m fascinated, inspired, and challenging myself
-in ways I never imagined.  
+An architect, who used to think blueprints were exclusively for buildings, not algorithms. 
+But life had other plans, and here I am, knee-deep in code.  
+**Spoiler alert: I’m loving it! Fascinated, inspired, and challenging myself
+in ways I never imagined.**
 
 Also, fascinated by how the worlds of **sustainable technologies and
 data science** can come together to reshape the ever-changing future.
 Whether it’s through [architecture][a] or programming or [AI driven solutions][a2];
- my goal is simple: **make things better.**
+ my goal is simple: **make things better, while looking cooler doing it**
 
 [a]: https://tinyurl.com/369yu4y8
 [a2]: https://tinyurl.com/3v5bapzc
 
  
-> **"How can the integration of AI-driven solutions with sustainable building
-technologies redefine architectural design paradigms, enabling us to achieve
-both environmental and functional optimization in the face of rapidly evolving
-urban challenges?"**
-_Curious for the answers of this question? Send me an [email](mailto:ahdbasan2@gmail.com)!_
->
-> _Looking forward to Global Net Zero 🌍🔋_
+> **Here’s a question to chew on:
+> "How can AI-driven solutions and sustainable building technologies redefine
+> architectural design paradigms?
+>  Can we save the world and look good doing it?"**
+_If you’ve got answers Hit me up on [email](mailto:ahdbasan2@gmail.com)!🌍🔋_
 
 <details>
 <summary><em>Click to learn more about me</em></summary>
