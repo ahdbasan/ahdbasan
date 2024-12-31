@@ -19,16 +19,16 @@ in ways I never imagined._
 Also, fascinated by how the worlds of **sustainable technologies and
 data science** can come together to reshape the ever-changing future.
 Whether it’s through [architecture][a] or programming or [AI driven solutions][a2];
- my goal is simple: **make things better, while looking cooler doing it**
+ my goal is simple: **make things better**
 
 [a]: https://tinyurl.com/369yu4y8
 [a2]: https://tinyurl.com/3v5bapzc
 
  
-> **Here’s a question to chew on:
+> **Here’s a question to chew on:  
 > "How can AI-driven solutions and sustainable building technologies redefine
-> architectural design paradigms?
->  Can we save the world and look good doing it?"**
+> architectural design paradigms?  
+>  Can we save the world and look good doing it?"**  
 _If you’ve got answers Hit me up on [email](mailto:ahdbasan2@gmail.com)!🌍🔋_
 
 <details>
@@ -39,11 +39,11 @@ _If you’ve got answers Hit me up on [email](mailto:ahdbasan2@gmail.com)!🌍�
 
 For me, _creativity transcends mere sketches_—it’s about the narratives we craft.
  Whether I’m designing an arcade,conceptualizing a luxurious 5-star hotel, or
- addressing the digital divide, my philosophy remains consistent:  
+ addressing the digital divide, my mantra remains consistent:  
  **People first. Process second. Pixels later.**
 
 ```text
-As Winston Churchil once said:
+Also, Winston Churchil once said:
     We shape our buildings; thereafter they shape us.
 ```
 
