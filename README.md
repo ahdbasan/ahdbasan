@@ -25,10 +25,10 @@ Whether it’s through [architecture][a] or programming or [AI driven solutions]
 [a2]: https://tinyurl.com/3v5bapzc
 
  
-> _"How can the integration of AI-driven solutions with sustainable building
+> **"How can the integration of AI-driven solutions with sustainable building
 technologies redefine architectural design paradigms, enabling us to achieve
 both environmental and functional optimization in the face of rapidly evolving
-urban challenges?"_
+urban challenges?"**
 _Curious for the answers of this question? Send me an [email](mailto:ahdbasan2@gmail.com)!_
 >
 > _Looking forward to Global Net Zero 🌍🔋_
