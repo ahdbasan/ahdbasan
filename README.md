@@ -11,7 +11,7 @@ _Currently in the Foundations Track_    ---
 
 ## Who am I?
 **Ahd Abdelrahim Basan.**  
-An architect, who used to think blueprints were exclusively for buildings, not algorithms. 
+An architect, who used to think blueprints were exclusively for buildings, not algorithms.   
 But life had other plans, and here I am, knee-deep in code. 
 _**Spoiler alert:** I’m loving it! Challenging myself in ways I never imagined._
 
