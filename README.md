@@ -15,6 +15,10 @@ An architect, who used to think blueprints were exclusively for buildings, not a
 But life had other plans, and here I am, knee-deep in code. 
 _**Spoiler alert:** I’m loving it! Challenging myself in ways I never imagined._
 
+<details>
+<summary><em>Click to learn more about me</em></summary>
+<!-- This also is intentionally inline-html for collapsible content -->    
+ 
 Also, fascinated by how the worlds of **sustainable technologies and
 data science** can come together to reshape the ever-changing future.
 Whether it’s through [architecture][a] or programming or [AI driven solutions][a2];
@@ -30,9 +34,6 @@ Whether it’s through [architecture][a] or programming or [AI driven solutions]
 >  Can we save the world and look good doing it?"**  
 _If you’ve got answers Hit me up on [email](mailto:ahdbasan2@gmail.com)!🌍🔋_
 
-<details>
-<summary><em>Click to learn more about me</em></summary>
-<!-- This also is intentionally inline-html for collapsible content -->    
 
 ### 🎨 Building Narratives
 
