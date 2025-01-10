@@ -5,14 +5,14 @@
 <!-- The following Image link is intentionally Inline-Html -->
 
 > [ahdbasan2@gmail.com](mailto:ahdbasan2@gmail.com)  
-> Aspiring to be a Software Architect  
+> Aspiring to be a BIM Architect  
 
 _Currently in the Foundations Track_    ---
 
 ## Who am I?
 **Ahd Abdelrahim Basan.**  
-An architect, who used to think blueprints were exclusively for buildings, not algorithms.   
-But life had other plans, and here I am, knee-deep in code.   
+An Architect who once viewed blueprints as purely physical, not digital.  
+Now, with Python programming, I’m pushing the boundaries of BIM and reshaping design possibilities.   
 _**Spoiler alert:** I’m loving it! Challenging myself in ways I never imagined._
 
 <details>
@@ -79,6 +79,34 @@ Also, Winston Churchil once said:
 
 <!-- The following image is intentionally inline - html to align them in the center . -->
 
+##  Architecture Tools
+
+<p align="left">
+  <img src="https://icons.veryicon.com/png/System/Simply%20Styled/Autodesk%20Revit.png"
+       alt="Revit"
+       width="32"
+       height="32"/>
+  <img src="https://www.svgrepo.com/show/329977/archicad.svg"
+       alt="ArchiCAD"
+       width="32"
+       height="32"/>
+   <img src="https://www.svgrepo.com/show/473788/sketchup.svg"
+       alt="Sketchup"
+       width="32"
+       height="32"/>
+  <img src="https://img.icons8.com/?size=100&id=0Vweftv5PCox&format=png&color=000000"
+       alt="Lumion"
+       width="32"
+       height="32"/>
+  <img src="https://www.svgrepo.com/show/305659/adobe-illustrator.svg"
+       alt="Adobe Illustrator"
+       width="32"
+       height="32"/>
+  <img src="https://www.svgrepo.com/show/41189/adobe-photoshop-logo.svg"
+       alt="Adobe Photoshop"
+       width="32"
+       height="32"/>
+</p>
 
 ----
 
