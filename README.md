@@ -5,21 +5,22 @@
 <!-- The following Image link is intentionally Inline-Html -->
 
 > [ahdbasan2@gmail.com](mailto:ahdbasan2@gmail.com)  
+> [Ahd Linkedin](https://www.linkedin.com/in/ahd-bassan?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmXAG%2FTPgT0mBs2Pb%2FUO7Uw%3D%3D)  
 > Aspiring to be a BIM Architect  
 
 _Currently in the Foundations Track_    ---
 
 ## Who am I?
-**Ahd Abdelrahim Basan.**  
+### **Ahd Abdelrahim Basan.**  
 An Architect who once viewed blueprints as purely physical, not digital.  
-Now, with Python programming, I’m pushing the boundaries of BIM and reshaping design possibilities.   
+Now with programming, I can push the boundaries of BIM and reshape design possibilities.   
 _**Spoiler alert:** I’m loving it! Challenging myself in ways I never imagined._
 
 <details>
 <summary><em>Click to learn more about me</em></summary>
 <!-- This also is intentionally inline-html for collapsible content -->    
  
-Also, fascinated by how the worlds of **sustainable technologies and
+✨ Fascinated by how the worlds of **sustainable technologies and
 data science** can come together to reshape the ever-changing future.
 Whether it’s through [architecture][a] or programming or [AI driven solutions][a2];
  my goal is simple: **make things better**
@@ -37,9 +38,10 @@ _If you’ve got answers Hit me up on [email](mailto:ahdbasan2@gmail.com)!🌍�
 
 ### 🎨 Building Narratives
 
-For me, _creativity transcends mere sketches_—it’s about the narratives we craft.
- Whether I’m designing an arcade,conceptualizing a luxurious 5-star hotel, or
- addressing the digital divide, my mantra remains consistent:  
+For me, _creativity transcends mere sketches_—it’s about the narratives we craft.  
+ Whether I’m designing an arcade, conceptualizing a luxurious 5-star hotel, or
+ addressing the digital divide,  
+ My mantra remains consistent:  
  **People first. Process second. Pixels later.**
 
 ```text
@@ -51,7 +53,7 @@ Also, Winston Churchil once said:
 
 ----
 
-##  Current Projects 
+##  Current Project 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MIT-Emerging-Talent&repo=ET6-foundations-group-28)](https://github.com/MIT-Emerging-Talent/ET6-foundations-group-28)
 
@@ -82,15 +84,19 @@ Also, Winston Churchil once said:
 ##  Architecture Tools
 
 <p align="left">
-  <img src="https://icons.veryicon.com/png/System/Simply%20Styled/Autodesk%20Revit.png"
+  <img src="https://github.com/user-attachments/assets/cbca70e2-70b1-4465-833e-2624774d3018"
        alt="Revit"
        width="32"
        height="32"/>
   <img src="https://www.svgrepo.com/show/329977/archicad.svg"
        alt="ArchiCAD"
+       width="30"
+       height="32"/>
+  <img src="https://www.svgrepo.com/show/330006/autodesk.svg"
+       alt="ArchiCAD"
        width="32"
        height="32"/>
-   <img src="https://www.svgrepo.com/show/473788/sketchup.svg"
+  <img src="https://www.svgrepo.com/show/473788/sketchup.svg"
        alt="Sketchup"
        width="32"
        height="32"/>
