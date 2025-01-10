@@ -15,10 +15,10 @@ _Currently in the Foundations Track_    ---
 ### **Ahd Abdelrahim Basan.**  
 
 An Architect who once viewed blueprints as purely physical, not digital.  
-Now with programming, I can push the boundaries of BIM and reshape design possibilities.
+Now with programming, I can push the boundaries of BIM and reshape design possibilities.  
 _**Spoiler alert:** I’m loving it! Challenging myself in ways I never imagined._
 
-Graduated with a BSc (Honours) in Architecture and Design.
+**Graduated with a BSc (Honours) in Architecture and Design.**
 
 <!-- markdownlint-disable MD033 -->
 <details>
