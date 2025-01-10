@@ -16,7 +16,7 @@ _Currently in the Foundations Track_    ---
 
 An Architect who once viewed blueprints as purely physical, not digital.  
 Now with programming, I can push the boundaries of BIM and reshape design possibilities.  
-_**Spoiler alert:** I’m loving it! Challenging myself in ways I never imagined._
+_**Caution** I'm hooked! Challenging myself in ways I never imagined._
 
 **Graduated with a BSc (Honours) in Architecture and Design.**
 
@@ -24,6 +24,7 @@ _**Spoiler alert:** I’m loving it! Challenging myself in ways I never imagined
 <details>
 <summary><em>Click to learn more about me</em></summary>
 <!-- This also is intentionally inline-html for collapsible content -->
+
 ### ✨ Building Narratives
 
 Fascinated by how the worlds of **sustainable technologies and
@@ -38,7 +39,7 @@ Whether it’s through [architecture][a] or programming or [AI driven solutions]
 > "How can AI-driven solutions and sustainable building technologies redefine
 > architectural design paradigms?  
 > Can we save the world and look good doing it?"**
-_If you’ve got answers Hit me up on [email](mailto:ahdbasan2@gmail.com)!🌍🔋_
+_If you’ve got answers Hit me up on [email](mailto:ahdbasan2@gmail.com)!_ 🌍🔋
 
 ```text
 Winston Churchil once said:
