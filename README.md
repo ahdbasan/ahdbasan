@@ -16,7 +16,7 @@ _Currently in the Foundations Track_    ---
 
 An Architect who once viewed blueprints as purely physical, not digital.  
 Now with programming, I can push the boundaries of BIM and reshape design possibilities.  
-_**Caution** I'm hooked! Challenging myself in ways I never imagined._
+_Caution: I'm hooked! Challenging myself in ways I never imagined._
 
 **Graduated with a BSc (Honours) in Architecture and Design.**
 
