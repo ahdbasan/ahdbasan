@@ -2,7 +2,6 @@
 
 # ![image](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWV2OXVmaGxqdnM2YzBpYTJtZ2pvcjc2eWI4OWswYmlnZG5kMHoxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ulZ7gQQz9jwZzv224n/giphy.webp)
 
-<!-- The following Image link is intentionally Inline-Html -->
 
 > [ahdbasan2@gmail.com](mailto:ahdbasan2@gmail.com)  
 > [Ahd Basan Linkedin](https://www.linkedin.com/in/ahd-bassan?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmXAG%2FTPgT0mBs2Pb%2FUO7Uw%3D%3D)  
@@ -22,7 +21,7 @@ _Caution: I'm hooked! Challenging myself in ways I never imagined._
 
 <details>
 <summary><em>Click to learn more about me</em></summary>
-<!-- This also is intentionally inline-html for collapsible content -->
+
 
 ### ✨ Building Narratives
 
@@ -74,7 +73,6 @@ Winston Churchil once said:
        height="32"/>
 </p>
 
-<!-- The following image is intentionally inline - html to align them left. -->
 
 ## Architecture Tools
 
