@@ -20,8 +20,6 @@ _Caution: I'm hooked! Challenging myself in ways I never imagined._
 
 **Graduated with a BSc (Honours) in Architecture and Design.**
 
-<!-- markdownlint-disable MD033 -->
-
 <details>
 <summary><em>Click to learn more about me</em></summary>
 <!-- This also is intentionally inline-html for collapsible content -->
