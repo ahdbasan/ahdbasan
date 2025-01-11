@@ -5,7 +5,7 @@
 > [ahdbasan2@gmail.com](mailto:ahdbasan2@gmail.com)  
 > [Ahd Basan Linkedin](https://www.linkedin.com/in/ahd-bassan?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmXAG%2FTPgT0mBs2Pb%2FUO7Uw%3D%3D)  
 > Aspiring to be a BIM Architect  
-
+<!-- Intentionall trailing space for new paragraph -->
 _Currently in the Foundations Track_    ---
 
 ## Who am I
@@ -111,3 +111,5 @@ Winston Churchil once said:
 <!-- The following link is intentionally left as it is  -->
 ![https://github.com/user-attachments/assets/3f499bd9-06ee-4b4e-9773-8ca1fb97fc34)](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHoxcm5rMWRtdTdyN3RsbDdpbGFjYW1hYXB5MHYycDlydXk2djAxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LyEzc55maIvssTrfW6/giphy.webp)
 ![vidgiphy](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGc0dzVoOG52bzEzZXJ2bnhnOXIyZXBkNWxjZmJiMDk2bTF4NzFldiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKA63NRZZQ52Nvjzvs/giphy.webp)
+
+<!-- Exit code error: mixed use of markdown and HTML  -->
