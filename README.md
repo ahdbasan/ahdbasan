@@ -25,7 +25,7 @@ _Caution: I'm hooked! Challenging myself in ways I never imagined._
 
 Fascinated by how the worlds of **sustainable technologies and
 data science** can come together to reshape the ever-changing future.  
-Whether it’s through [architecture][a] or programming or [AI driven solutions][a2];  
+Whether it’s through [architecture][a] or programming or [AI driven solutions][a2];
  my goal is simple: **make things better**  
  
 [a]: https://tinyurl.com/369yu4y8
@@ -105,6 +105,8 @@ Winston Churchil once said:
        width="32"
        height="32"/>
 </p>
+
+---
 
 ### Now, I’m not just building structures; I’m building logic too
 
