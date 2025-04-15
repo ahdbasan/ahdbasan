@@ -6,7 +6,7 @@
 > [Ahd Basan Linkedin](https://www.linkedin.com/in/ahd-bassan?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmXAG%2FTPgT0mBs2Pb%2FUO7Uw%3D%3D)  
 > Aspiring to be a BIM Architect  
 <!-- Intentionall trailing space for new paragraph -->
-_Currently in the Certficate Program of MIT Emerging Talent in Data Science
+_Currently in the Certficate Program   
 Ended the Foundations Track_    ---
 
 ## Who am I
