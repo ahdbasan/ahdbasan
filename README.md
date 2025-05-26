@@ -7,7 +7,6 @@
 > Aspiring to be a BIM Architect  
 <!-- Intentionall trailing space for new paragraph -->
 _Currently in the Certficate Program   
-Ended the Foundations Track_    ---
 
 ## Who am I
 
