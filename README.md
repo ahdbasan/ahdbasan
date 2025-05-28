@@ -4,7 +4,7 @@
 
 > [ahdbasan2@gmail.com](mailto:ahdbasan2@gmail.com)  
 > [Ahd Basan Linkedin](https://www.linkedin.com/in/ahd-bassan?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmXAG%2FTPgT0mBs2Pb%2FUO7Uw%3D%3D)  
-> Aspiring to be a BIM Architect  
+> Interested in ML
 <!-- Intentionall trailing space for new paragraph -->
 
 Currently in the Certficate Program
@@ -14,7 +14,7 @@ Currently in the Certficate Program
 ### **Ahd Abdelrahim Basan.**  
 
 An Architect who once viewed blueprints as purely physical, not digital.  
-Now with programming, I can push the boundaries of BIM and reshape design possibilities.  
+Now with programming, I can push the boundaries and reshape design possibilities.  
 _Caution: I'm hooked! Challenging myself in ways I never imagined._  
 
 **Graduated with a BSc (Honours) in Architecture and Design.**
@@ -32,11 +32,6 @@ Whether it’s through [architecture][a] or programming or [AI driven solutions]
 [a]: https://tinyurl.com/369yu4y8
 [a2]: https://tinyurl.com/3v5bapzc
 
-> **Here’s a question to chew on:  
-> "How can AI-driven solutions and sustainable building technologies redefine
-> architectural design paradigms?  
-> Can we save the world and look good doing it?"**
-_If you’ve got answers Hit me up on [email](mailto:ahdbasan2@gmail.com)!_ 🌍🔋
 
 ```text
 Winston Churchil once said:
