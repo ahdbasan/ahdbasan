@@ -25,7 +25,8 @@ _Caution: I'm hooked! Challenging myself in ways I never imagined._
 ### ✨ Building Narratives
 
 Fascinated by how the worlds of **sustainable technologies and
-data science**   can come together to reshape the ever-changing future.  
+data science**   
+can come together to reshape the ever-changing future.  
 Through [architecture][a] and programming or [AI driven solutions][a2];  
  my goal is simple: **make things better**  
  
