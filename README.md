@@ -26,7 +26,7 @@ _Caution: I'm hooked! Challenging myself in ways I never imagined._
 
 Fascinated by how the worlds of **sustainable technologies and
 data science** can come together to reshape the ever-changing future.  
-Through [architecture][a] and programming or [AI driven solutions][a2];
+Through [architecture][a] and programming or [AI driven solutions][a2];  
  my goal is simple: **make things better**  
  
 [a]: https://tinyurl.com/369yu4y8
