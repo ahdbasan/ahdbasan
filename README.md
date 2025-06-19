@@ -14,8 +14,7 @@ Currently in the Certficate Program
 ### **Ahd Abdelrahim Basan.**  
 
 An Architect who once viewed blueprints as purely physical, not digital.  
-Now with programming, I can push the boundaries and reshape design possibilities.  
-_Caution: I'm hooked! Challenging myself in ways I never imagined._  
+Now with programming, pushIing the boundaries and reshaping design possibilities.  
 
 **Graduated with a BSc (Honours) in Architecture and Design.**
 <!-- This also is intentionally inline-html for collapsible content -->
