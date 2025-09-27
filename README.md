@@ -16,7 +16,7 @@ Currently in the Certificate Program in MIT Emerging Talent
 An Architect who once viewed blueprints as purely physical, not digital.  
 Now with programming, pushing the boundaries and reshaping design possibilities.  
 
-**Graduated with a BSc (Honours) in Architecture and Design.**
+**Graduated with a BSc *(Hons)* in Architecture and Design.**
 <!-- This also is intentionally inline-html for collapsible content -->
 <details>
 <summary><em>Click to learn more about me</em></summary>
