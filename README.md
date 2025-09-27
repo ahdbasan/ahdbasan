@@ -3,8 +3,8 @@
 # ![image](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWV2OXVmaGxqdnM2YzBpYTJtZ2pvcjc2eWI4OWswYmlnZG5kMHoxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ulZ7gQQz9jwZzv224n/giphy.webp)
 
 > [ahdbasan2@gmail.com](mailto:ahdbasan2@gmail.com)  
-> [Ahd Basan Linkedin](https://www.linkedin.com/in/ahdomerabdelrahim/)
-> Interested in ML & Sustainability
+> [Ahd Basan Linkedin](https://www.linkedin.com/in/ahdomerabdelrahim/)  
+> Interested in ML & Sustainability 
 <!-- Intentional trailing space for new paragraph -->
 
 Currently in the Certificate Program in MIT Emerging Talent
