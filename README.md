@@ -3,18 +3,18 @@
 # ![image](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWV2OXVmaGxqdnM2YzBpYTJtZ2pvcjc2eWI4OWswYmlnZG5kMHoxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ulZ7gQQz9jwZzv224n/giphy.webp)
 
 > [ahdbasan2@gmail.com](mailto:ahdbasan2@gmail.com)  
-> [Ahd Basan Linkedin](https://www.linkedin.com/in/ahd-bassan?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmXAG%2FTPgT0mBs2Pb%2FUO7Uw%3D%3D)  
+> [Ahd Basan Linkedin](https://www.linkedin.com/in/ahdomerabdelrahim/)
 > Interested in ML & Sustainability
-<!-- Intentionall trailing space for new paragraph -->
+<!-- Intentional trailing space for new paragraph -->
 
-Currently in the Certficate Program
+Currently in the Certificate Program in MIT Emerging Talent
 
 ## Who am I
 
 ### **Ahd Abdelrahim Basan.**  
 
 An Architect who once viewed blueprints as purely physical, not digital.  
-Now with programming, pushIing the boundaries and reshaping design possibilities.  
+Now with programming, pushing the boundaries and reshaping design possibilities.  
 
 **Graduated with a BSc (Honours) in Architecture and Design.**
 <!-- This also is intentionally inline-html for collapsible content -->
@@ -31,10 +31,11 @@ Through [architecture][a] and programming or [AI driven solutions][a2];
 [a]: https://tinyurl.com/369yu4y8
 [a2]: https://tinyurl.com/3v5bapzc
 
+I thrive in collaborative, research-driven environments and believe in creating solutions that blend creativity, functionality, and innovation.
 
 ```text
-Winston Churchil once said:
-    We shape our buildings; thereafter they shape us.
+Winston Churchill once said:
+    We shape our buildings; thereafter, they shape us.
 ```
 
 </details>
@@ -49,7 +50,7 @@ Winston Churchil once said:
 
 ## Version Control and Tools
 
-<!-- The following image is intentionally inline - html to align them left. -->
+<!-- The following image is intentionally inline - HTML to align them left. -->
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"
        alt="Visual Studio Code"
@@ -71,7 +72,7 @@ Winston Churchil once said:
 
 ## Architecture Tools
 
-<!-- The following image is intentionally inline - html to align them left. -->
+<!-- The following image is intentionally inline - HTML to align them left. -->
 <p align="left">
   <img src="https://github.com/user-attachments/assets/cbca70e2-70b1-4465-833e-2624774d3018"
        alt="Revit"
