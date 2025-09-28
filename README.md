@@ -11,7 +11,7 @@ Currently in the Certificate Program in MIT Emerging Talent
 
 ## Who am I
 
-### **Ahd Abdelrahim Basan.**  
+### **Ahd A. Basan.**  
 
 An Architect who once viewed blueprints as purely physical, not digital.  
 Now with programming, pushing the boundaries and reshaping design possibilities.  
